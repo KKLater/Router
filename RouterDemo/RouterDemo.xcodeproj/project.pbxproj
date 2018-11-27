@@ -170,11 +170,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-RouterDemo/Pods-RouterDemo-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Router/Router.framework",
+				"${BUILT_PRODUCTS_DIR}/GCTRouter/GCTRouter.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Router.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GCTRouter.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

@@ -1,0 +1,6 @@
+framework module GCTRouter {
+  umbrella header "GCTRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

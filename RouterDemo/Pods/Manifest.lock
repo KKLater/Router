@@ -1,16 +1,16 @@
 PODS:
-  - Router (0.0.1)
+  - GCTRouter (0.0.1)
 
 DEPENDENCIES:
-  - Router (from `../`)
+  - GCTRouter (from `../`)
 
 EXTERNAL SOURCES:
-  Router:
+  GCTRouter:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Router: bf4aa11f715ee7b8cbe2a6e4062885515e7d5f0b
+  GCTRouter: f888354cc344e29b00cdd037e4943a8290a1dd3a
 
-PODFILE CHECKSUM: 96430dde0115ffeec4986d5b85dbc5e9b30aa34e
+PODFILE CHECKSUM: fa2d7f4c9cc076ed2089ee69fb3444dd9fc42a8c
 
 COCOAPODS: 1.5.3
