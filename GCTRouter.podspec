@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name         = "Router"
+  s.name         = "GCTRouter"
   s.version      = "0.0.1"
   s.summary      = "Swift 路由 router"
   s.description  = <<-DESC
