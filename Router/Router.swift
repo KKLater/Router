@@ -27,9 +27,9 @@ public protocol Routable {
 
 public class Router: NSObject {
     
-    open static let `default` = Router()
+    public static let `default` = Router()
     
-    open var urls: RouterSchemeable?
+    public var urls: RouterSchemeable?
     
     public override init() {
         super.init()
